@@ -25,5 +25,5 @@ Usuarios Primarios: Estudiantes, trabajadores, usuarios frecuentes del transport
 
 Usuarios secundarios: Los contactos de confianza los cuales recibirán el aviso y la ubicación del usuario primario (familiares, amistades o pareja).
 # Propuesta de valor
-  
+El proyecto propone que la seguridad personal este al alcance de un solo toque. Permitiendo avisar a diferentes contactos 
 
