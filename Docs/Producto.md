@@ -1,9 +1,9 @@
-# Fundamentos de Ingeniería en Software - entrega 1
+## Fundamentos de Ingeniería en Software - entrega 1
 
 # Nombre del proyecto
-# Security
+## Security
 
-## Equipo
+# Equipo
 | Nombre            | Rol        |
 |-------------------|------------|
 | David Chin        | Lider      |
