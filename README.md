@@ -6,10 +6,8 @@ El alcance del proyecto es elaborar un aplicación móvil en la que el usuario p
 # Contenido
 1. Descripción del Producto
 2. Requerimientos
-   * Historias de usuario
-   * Diagrama de casos de uso
 3. Proceso
 4. Video entrega 1
 5. Competencias
-   * Competencias Genéricas
-   * Competencias Específicas 
+6. Roles y metas
+   
